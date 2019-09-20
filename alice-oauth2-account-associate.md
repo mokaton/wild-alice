@@ -23,3 +23,5 @@
     * В поле "URL для получения токена" значение `https://oauth.yandex.ru/token`
     
 ![dialog_settings](yandex-dialog_assoc_account.png)
+
+[Вернуться в содержание](README.md)
